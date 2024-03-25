@@ -48,6 +48,18 @@ function somarNumeros(...$numeros){
 somarNumeros(3,2,10,40,20,50);
 
 
+function SomaDePandora(&$numero){
+    $numero += 5;
+    //echo $numero:
+}
+
+$valor = 10;
+echo "<br> {$valor} <br>";
+SomaDePandora($valor);
+echo "<br> {$valor} <br>";
+
+
+
 
 
 ?>
