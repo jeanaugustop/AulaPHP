@@ -14,13 +14,11 @@
             <a href="./exercicios2.php"><li>Exercícios PHP Lista 2</li></a>
             <a href="./exercicios3.php"><li>Exercícios PHP Lista 3</li></a>
             <a href="./exercicios4.php"><li>Exercicios PHP Lista 4</li></a>
-
-
         </ul>
     </header>
-
+    
     <ul>
-        <a href="./Exercicios2/./ExercicioSwitch.php"><li>Exercício Switch</li></a>
+        <a href="./Exercicios4/./ex04.php"><li>Ex01</li></a>
 
     
 </body>
