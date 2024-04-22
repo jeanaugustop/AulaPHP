@@ -19,7 +19,7 @@
     </header>
     
     <ul>
-        <a href="./Exercicios3/./funcao.php"><li>Aula Funcao</li></a>
+        <a href="./Exercicios3/./funcoes.php"><li>Aula Funcao</li></a>
 
     
 </body>

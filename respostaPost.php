@@ -10,18 +10,11 @@
 
     <?php
         
-        echo "GET";
-        echo print_r($_GET);
-
-        echo "<br>";
            
         echo "POST";
         echo print_r($_POST);
 
-        echo "<br>";
-           
-        echo "REQUEST";
-        echo print_r($_REQUEST);
+       
     ?>
 
 </body>
